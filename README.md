@@ -62,6 +62,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [akeneo](https://www.akeneo.com) &mdash; Create superior product experiences
 - [Salsify](https://www.salsify.com) &mdash; Commerce Experience Management for the Digital Shelf.
 - [Crystallize](https://crystallize.com) &mdash; Product information (PIM) and rich marketing content in one.
+- [UnoPim](https://unopim.com/) — Free and Open Source PIM Software Built on Laravel to Centralize and Enrich Product Data for All Channels with Speed and Scalability.
 
 ## Promotions
 

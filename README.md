@@ -103,6 +103,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Shippo](https://goshippo.com) &mdash; The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [easypost](https://www.easypost.com) &mdash; Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
 - [Openship](https://openship.org/) &mdash; Multi-channel fulfilment at scale
+- [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) &mdash; Open packaging-fit calculator for testing carton, mailer, and poly mailer scenarios in ecommerce fulfillment.
 
 ## Hosting and Deployment
 

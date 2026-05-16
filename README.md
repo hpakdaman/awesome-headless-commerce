@@ -92,8 +92,9 @@ A community curated list of headless commerce related APIs, products, and servic
 
 ## Payments
 
-- [Braintree](https://www.braintreepayments.com) &mdash; The only payments platform that delivers PayPal, Venmo (in the US), credit and debit cards, and popular digital wallets.
 - [Adyen](https://www.adyen.com) &mdash; Accept payments everywhere.
+- [Braintree](https://www.braintreepayments.com) &mdash; The only payments platform that delivers PayPal, Venmo (in the US), credit and debit cards, and popular digital wallets.
+- [MONEI](https://monei.com/) — European payment gateway with REST and GraphQL APIs. Accept cards, Bizum, PayPal, Apple Pay, Google Pay, SEPA, and BNPL. Prebuilt payment page and customizable UI components for headless checkout.
 - [Stripe](https://stripe.com) &mdash; Online payment processing for internet businesses.
 
 ## Shipping and Fulfillment

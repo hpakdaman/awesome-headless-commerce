@@ -125,6 +125,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Clerk](https://clerk.dev/) &mdash; More than authentication. Complete User Management.
 - [WorkOS](https://workos.com) &mdash; Your app, Enterprise Ready.
 - [Scalekit](https://www.scalekit.com) &mdash; Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
+- [SSOJet](https://ssojet.com) &mdash; Add Enterprise SSO Without Rebuilding Your Auth.
 
 ## Communication
 
